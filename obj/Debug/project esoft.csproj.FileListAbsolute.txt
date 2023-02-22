@@ -1,0 +1,50 @@
+C:\Users\Wijesingha\OneDrive\Desktop\my1\project esoft\project esoft\bin\Debug\project esoft.exe.config
+C:\Users\Wijesingha\OneDrive\Desktop\my1\project esoft\project esoft\bin\Debug\project esoft.exe
+C:\Users\Wijesingha\OneDrive\Desktop\my1\project esoft\project esoft\bin\Debug\project esoft.pdb
+C:\Users\Wijesingha\OneDrive\Desktop\my1\project esoft\project esoft\obj\Debug\project esoft.csproj.AssemblyReference.cache
+C:\Users\Wijesingha\OneDrive\Desktop\my1\project esoft\project esoft\obj\Debug\project esoft.csproj.SuggestedBindingRedirects.cache
+C:\Users\Wijesingha\OneDrive\Desktop\my1\project esoft\project esoft\obj\Debug\project_esoft.details.resources
+C:\Users\Wijesingha\OneDrive\Desktop\my1\project esoft\project esoft\obj\Debug\project_esoft.login.resources
+C:\Users\Wijesingha\OneDrive\Desktop\my1\project esoft\project esoft\obj\Debug\project_esoft.Properties.Resources.resources
+C:\Users\Wijesingha\OneDrive\Desktop\my1\project esoft\project esoft\obj\Debug\project esoft.csproj.GenerateResource.cache
+C:\Users\Wijesingha\OneDrive\Desktop\my1\project esoft\project esoft\obj\Debug\project esoft.csproj.CoreCompileInputs.cache
+C:\Users\Wijesingha\OneDrive\Desktop\my1\project esoft\project esoft\obj\Debug\project esoft.exe
+C:\Users\Wijesingha\OneDrive\Desktop\my1\project esoft\project esoft\obj\Debug\project esoft.pdb
+C:\Users\Wijesingha\OneDrive\Desktop\my1\project esoft\correctc\project esoft\obj\Debug\project esoft.exe
+C:\Users\Wijesingha\OneDrive\Desktop\my1\project esoft\correctc\project esoft\obj\Debug\project esoft.pdb
+C:\Users\Hello\Desktop\Esoft\correctc\project esoft\obj\Debug\project esoft.exe
+C:\Users\Hello\Desktop\Esoft\correctc\project esoft\obj\Debug\project esoft.pdb
+C:\Users\Hello\Desktop\Esoft\correctc\project esoft\bin\Debug\project esoft.exe.config
+C:\Users\Hello\Desktop\Esoft\correctc\project esoft\bin\Debug\project esoft.exe
+C:\Users\Hello\Desktop\Esoft\correctc\project esoft\bin\Debug\project esoft.pdb
+C:\Users\Hello\Desktop\Esoft\correctc\project esoft\obj\Debug\project esoft.csprojAssemblyReference.cache
+C:\Users\Hello\Desktop\Esoft\correctc\project esoft\obj\Debug\project_esoft.course_details.resources
+C:\Users\Hello\Desktop\Esoft\correctc\project esoft\obj\Debug\project_esoft.details.resources
+C:\Users\Hello\Desktop\Esoft\correctc\project esoft\obj\Debug\project_esoft.login.resources
+C:\Users\Hello\Desktop\Esoft\correctc\project esoft\obj\Debug\project_esoft.Properties.Resources.resources
+C:\Users\Hello\Desktop\Esoft\correctc\project esoft\obj\Debug\project esoft.csproj.GenerateResource.cache
+C:\Users\Hello\Desktop\Esoft\correctc\project esoft\obj\Debug\project esoft.csproj.CoreCompileInputs.cache
+C:\Users\Wijesingha\OneDrive\Desktop\correctc\project esoft\obj\Debug\project esoft.csproj.AssemblyReference.cache
+C:\Users\Wijesingha\OneDrive\Desktop\correctc\project esoft\obj\Debug\project esoft.csproj.SuggestedBindingRedirects.cache
+C:\Users\Wijesingha\OneDrive\Desktop\correctc\project esoft\obj\Debug\project_esoft.course_details.resources
+C:\Users\Wijesingha\OneDrive\Desktop\correctc\project esoft\obj\Debug\project_esoft.details.resources
+C:\Users\Wijesingha\OneDrive\Desktop\correctc\project esoft\obj\Debug\project_esoft.login.resources
+C:\Users\Wijesingha\OneDrive\Desktop\correctc\project esoft\obj\Debug\project_esoft.Properties.Resources.resources
+C:\Users\Wijesingha\OneDrive\Desktop\correctc\project esoft\obj\Debug\project esoft.csproj.GenerateResource.cache
+C:\Users\Wijesingha\OneDrive\Desktop\correctc\project esoft\obj\Debug\project esoft.csproj.CoreCompileInputs.cache
+C:\Users\Wijesingha\OneDrive\Desktop\correctc\project esoft\obj\Debug\project esoft.exe
+C:\Users\Wijesingha\OneDrive\Desktop\correctc\project esoft\obj\Debug\project esoft.pdb
+C:\Users\Wijesingha\OneDrive\Desktop\correctc\project esoft\bin\Debug\project esoft.exe.config
+C:\Users\Wijesingha\Desktop\correctc\project esoft\obj\Debug\project esoft.csproj.AssemblyReference.cache
+C:\Users\Wijesingha\Desktop\correctc\project esoft\obj\Debug\project esoft.csproj.SuggestedBindingRedirects.cache
+C:\Users\Wijesingha\Desktop\correctc\project esoft\obj\Debug\project_esoft.course_details.resources
+C:\Users\Wijesingha\Desktop\correctc\project esoft\obj\Debug\project_esoft.details.resources
+C:\Users\Wijesingha\Desktop\correctc\project esoft\obj\Debug\project_esoft.login.resources
+C:\Users\Wijesingha\Desktop\correctc\project esoft\obj\Debug\project_esoft.Properties.Resources.resources
+C:\Users\Wijesingha\Desktop\correctc\project esoft\obj\Debug\project esoft.csproj.GenerateResource.cache
+C:\Users\Wijesingha\Desktop\correctc\project esoft\obj\Debug\project esoft.csproj.CoreCompileInputs.cache
+C:\Users\Wijesingha\Desktop\correctc\project esoft\obj\Debug\project esoft.exe
+C:\Users\Wijesingha\Desktop\correctc\project esoft\obj\Debug\project esoft.pdb
+C:\Users\Wijesingha\Desktop\correctc\project esoft\bin\Debug\project esoft.exe.config
+C:\Users\Wijesingha\Desktop\correctc\project esoft\bin\Debug\project esoft.exe
+C:\Users\Wijesingha\Desktop\correctc\project esoft\bin\Debug\project esoft.pdb
